@@ -1,1 +1,1 @@
-# Shaps-color-game-
+# chessboard-game-
